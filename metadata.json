@@ -1,0 +1,6 @@
+{
+  "name": "StudyPilot AI",
+  "description": "Intelligent AI-powered study planner, adaptive revision scheduler, and daily routine assistant for students.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
